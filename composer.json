@@ -1,0 +1,17 @@
+{
+    "name": "ksheth/marine-life",
+    "description": "Everything you could possibly need to know about certain marine animals",
+    "type": "project",
+    "require": {
+        "php": "^7.1"
+    },
+    "require-dev": {
+        "vlucas/phpdotenv": "^2.4"
+    },
+    "authors": [
+        {
+            "name": "Katya Sheth",
+            "email": "k_sheth@u.pacific.edu"
+        }
+    ]
+}
